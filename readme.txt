@@ -16,3 +16,4 @@ git reset --hard HEAD^
 git reset --hard HEAD~100
 git reset --hard 479db20c4d6c263fbe6e0fa3f5a682668b6a36d7
 git reflog
+LICENSE
