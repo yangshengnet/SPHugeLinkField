@@ -107,3 +107,9 @@ Total 28 (delta 6), reused 0 (delta 0)
 To https://github.com/yangshengnet/SPHugeLinkField.git
  * [new branch]      master -> master
 Branch master set up to track remote branch master from origin.
+Store your credentials locally
+$ git help credentials
+$ git config credential.helper store
+$ git push https://github.com/yangshengnet/SPHugeLinkField.git
+Username: <type your username>
+Password: <type your password>
