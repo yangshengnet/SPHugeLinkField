@@ -9,3 +9,6 @@ $ git init
 Initialized empty Git repository in C:/Users/yangshen/SPHugeLinkField/.git/
 npp download https://notepad-plus-plus.org/download/v6.8.8.html
 git add readme.txt
+git commit -m "readme Initialized!"
+git status
+git diff
